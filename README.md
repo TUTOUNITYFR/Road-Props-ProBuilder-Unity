@@ -6,4 +6,6 @@ Ce projet Unity contient 8 props routier réalisés avec ProBuilder sous Unity.
 ## Infos
 Vous êtes libre de réutiliser ces modèles 3D dans vos projets.
 
+Vidéo time-lapse de la modélisation : https://www.youtube.com/watch?v=-BgAUS43Ezw
+
 Si vous utilisez ce repo GitHub pensez à me créditer ! Ce n'est pas obligatoire mais c'est fortement apprécié. Si vous aimez mon travail et que vous souhaitez me soutenir, vous pouvez effectuer une donation récurente ou unique sur ma page [Tipeee](https://fr.tipeee.com/tuto-unity-fr) ou sur mon [uTip](https://utip.io/tutounityfr).
